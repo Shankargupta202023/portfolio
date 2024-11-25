@@ -1,0 +1,25 @@
+/* Global styles */
+body {
+    font-family: Arial, sans-serif;
+}
+
+h2 {
+    margin-bottom: 30px;
+}
+
+/* Slider styles */
+.carousel-inner img {
+    height: 500px;
+}
+
+/* Footer styles */
+.footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+#product-booking{
+    background-color: rgb(237, 243, 249);
+}
